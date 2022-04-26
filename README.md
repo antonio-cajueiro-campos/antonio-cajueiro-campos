@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Antonio Carlos</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=antonio-cajueiro-campos&label=Profile%20views&color=0e75b6&style=flat"
-    alt="antonio-cajueiro-campos" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=antonio-cajueiro-campos&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-cajueiro-campos" />
+</p>
 
 - 🌱 I’m currently learning **Rust, Asp.Net CORE**
 
-<center>
-
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Linguagens e ferramentas mais utilizadas:</h3>
   <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
         src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a> <a
       href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
@@ -87,13 +85,8 @@
         alt="typescript" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs" width="40" height="40" /> </a> </p>
-
-    <div align="center">
-    
+   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-cajueiro-campos&show_icons=true&locale=en&layout=compact" alt="antonio-cajueiro-campos" />
-
   <img src="https://github-readme-stats.vercel.app/api?username=antonio-cajueiro-campos&show_icons=true&locale=en" alt="antonio-cajueiro-campos" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-cajueiro-campos&" alt="antonio-cajueiro-campos" />
-        </div>
-</center>
+
