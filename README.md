@@ -30,11 +30,7 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
     </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-        alt="electron" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -45,9 +41,13 @@
     </a>
     <a href="https://ionicframework.com" target="_blank"
       rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic"
-        width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+        width="40" height="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+        width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
       rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" />
@@ -84,11 +84,18 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
         alt="nodejs" width="40" height="40" />
     </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /> </a> <a
-      href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+        <img
+        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
+    </a>
+    <a
+      href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-        height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+        height="40" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40" />
     </a>
@@ -106,12 +113,9 @@
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img
-        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-        height="40" />
+        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
+   
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
